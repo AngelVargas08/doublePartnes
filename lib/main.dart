@@ -1,6 +1,6 @@
 
 import 'package:doublevpartners/domain/provider/form_provider.dart';
-import 'package:doublevpartners/router/router.dart';
+import 'package:doublevpartners/presentation/router/router.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 

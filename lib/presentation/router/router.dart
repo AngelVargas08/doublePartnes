@@ -1,7 +1,7 @@
 
 import 'package:doublevpartners/presentation/screens/home_screen.dart';
 import 'package:go_router/go_router.dart';
-import '../presentation/screens/screens.dart';
+import '../screens/screens.dart';
 
 
 
