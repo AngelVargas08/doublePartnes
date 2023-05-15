@@ -15,7 +15,7 @@ class HomeScreen extends StatelessWidget {
       body: Center(
           child: Expanded(
         child: Container(
-          width: size.width * 0.7,
+          width: size.width * 0.85,
           height: size.height * 0.3,
           decoration: BoxDecoration(
               color: Colors.purple[100],
